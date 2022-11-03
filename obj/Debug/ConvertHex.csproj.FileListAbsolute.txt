@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\ConvertHex\bin\Debug\ConvertHex.exe.config
+C:\Users\Administrator\source\repos\ConvertHex\bin\Debug\ConvertHex.exe
+C:\Users\Administrator\source\repos\ConvertHex\bin\Debug\ConvertHex.pdb
+C:\Users\Administrator\source\repos\ConvertHex\obj\Debug\ConvertHex.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ConvertHex\obj\Debug\ConvertHex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\ConvertHex\obj\Debug\ConvertHex.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConvertHex\obj\Debug\ConvertHex.exe
+C:\Users\Administrator\source\repos\ConvertHex\obj\Debug\ConvertHex.pdb
